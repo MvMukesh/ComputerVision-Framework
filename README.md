@@ -41,6 +41,45 @@ Image processing ==> blurring image, understanding image morphology, geometric t
 |Histogram | | helps to understand distribution behind colors of an image <br> important to know when you plan on compiling a ML algorithm with balanced dataset|
 |Drawings of Shapes | | ever need to have shapes to interact with computer vision world like object detection, it's common to create digital shapes to represent them|
 
+#### Image Manipulation & Image Processing
+Will apply following function on an image using OpenCV:
+1. Image Transformations
+  * Affine and Non-Affine Transformation
+2. Image Translations
+  * Moving image up, down, left and right 
+3. Rotation of image
+  * Spinning image 
+4. Scaling, Resizing, and Interpolation 
+5. Image Pyramids 
+  * Another way of resizing 
+6. Cropping
+  * Cutting out wanted image region 
+7. Arithmetic operations for Brightening and Darkening of images
+
+|             |          |           |
+|-------------|----------|-----------|
+|Transformation | | |
+|Image Translation | | |
+|Rotations | | |
+|Scaling | | |
+|Image Pyramids <br>(Resize) | | |
+|Region of intrest <br> (Crop) | | |
+|Bitwise Operations <br> (Mask) | | |
+|Convolutions & Blurring | | |
+|Sharpening| | |
+|Thresholding| | |
+|Dilation & Erosion| | |
+|Edge Detection| | |
+|Perspective & Affine Transforms| | |
+
+
+
+
+
+
+
+
+
 
 
 
