@@ -3,6 +3,9 @@ OpenCV projects, step towards Computer Vision and Deep Learning <br>
 This repository includes any projects that I have completed in research, projects. <br>
 `Main focus is to study fields that cross over Machine Learning(SVM, K-means), Deep Learning(CNN), Computer Vision and Data Science`
 
+<p align="right">
+  <img src="https://github.com/MvMukesh/Computer-Vision-Deep-Learning-Projects/blob/main/all%20images/under-construction.jpeg" width=30% height=0%/>
+</p>
 
 <p align="center">
   <kbd><img src="https://github.com/MvMukesh/Computer-Vision-Deep-Learning-Projects/blob/main/all%20images/detect%20face%20parts.png"/></kbd>  
