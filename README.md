@@ -14,7 +14,7 @@ This repository includes any projects that I have completed in research, project
   <kbd><img src="https://github.com/MvMukesh/Computer-Vision-Deep-Learning-Projects/blob/main/all%20images/dl%20timeline.png"/></kbd>
 </p>
 
-## Contents:
+## Index:
 1. [Basics of Computer Vision and OpenCV](#)
 2. [Image Manipulation and Processing](#)
 3. [Image Segmentation and Contours](#)
@@ -27,5 +27,23 @@ This repository includes any projects that I have completed in research, project
 10. [Self Driving Cars](#)
 11. [Deep Learning](#)
   
+## Section:
+#### Computer Vision & OpenCV - Basics
+Image processing ==> blurring image, understanding image morphology, geometric transforms, image histograms
+
+|             |          |           |
+|-------------|----------|-----------|
+|OpenCV Basic | | |
+|Grayscaling | | |
+|Colors HSV-Hue | | |
+|Colors Gray-RGB | | |
+|Color Red-Green-Blue | | |
+|Histogram | | |
+|Drawings of Shapes | | |
+
+
+
+
+
 
 
