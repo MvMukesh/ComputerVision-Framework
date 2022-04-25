@@ -33,13 +33,13 @@ Image processing ==> blurring image, understanding image morphology, geometric t
 
 |             |          |           |
 |-------------|----------|-----------|
-|OpenCV Basic | | |
-|Grayscaling | | |
-|Colors HSV-Hue | | |
-|Colors Gray-RGB | | |
-|Color Red-Green-Blue | | |
-|Histogram | | |
-|Drawings of Shapes | | |
+|OpenCV Basic | | displaying image <br> plt.imshow(cv2.cvtColor(input, cv2.COLOR_BGR2RGB))|
+|Grayscaling | |very popular technique in computer vision used to find <br>`gradient on edge points of an image` |
+|Colors HSV-Hue | |in HSV it is more easier to represent a color than in BGR color-space <br> first convert BGR image to HSV `HSV is used to extract a colored object`|
+|Colors Gray-RGB | |OpenCV allow to convert an RGB image into Grayscale in two ways <br> 1. using cvtColor function <br> 2. using imread function |
+|Color Red-Green-Blue | |machine can only understand three colors: red, green, blue <br> here will tweek color intensity in RGB |
+|Histogram | | helps to understand distribution behind colors of an image <br> important to know when you plan on compiling a ML algorithm with balanced dataset|
+|Drawings of Shapes | | ever need to have shapes to interact with computer vision world like object detection, it's common to create digital shapes to represent them|
 
 
 
