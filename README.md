@@ -4,3 +4,6 @@ This repository includes any projects that I have completed in research, project
 `Main focus is to study fields that cross over Machine Learning(SVM, K-means), Deep Learning(CNN), Computer Vision and Data Science`
 
 ![Festure Selection](https://github.com/MvMukesh/Computer-Vision-Deep-Learning-Projects/blob/main/all%20images/Feature%20Selection.png)
+
+## Deep Learning Timeline
+![Deep Learning Timeline](https://github.com/MvMukesh/Computer-Vision-Deep-Learning-Projects/blob/main/all%20images/dl%20timeline.png)
