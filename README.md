@@ -41,6 +41,8 @@ Image processing ==> blurring image, understanding image morphology, geometric t
 |Histogram | | helps to understand distribution behind colors of an image <br> important to know when you plan on compiling a ML algorithm with balanced dataset|
 |Drawings of Shapes | | ever need to have shapes to interact with computer vision world like object detection, it's common to create digital shapes to represent them|
 
+----
+
 #### Image Manipulation & Image Processing
 Will apply following function on an image using OpenCV:
 1. Image Transformations
@@ -58,19 +60,19 @@ Will apply following function on an image using OpenCV:
 
 |             |          |           |
 |-------------|----------|-----------|
-|Transformation | | |
-|Image Translation | | |
-|Rotations | | |
-|Scaling | | |
-|Image Pyramids <br>(Resize) | | |
-|Region of intrest <br> (Crop) | | |
-|Bitwise Operations <br> (Mask) | | |
-|Convolutions & Blurring | | |
-|Sharpening| | |
-|Thresholding| | |
-|Dilation & Erosion| | |
-|Edge Detection| | |
-|Perspective & Affine Transforms| | |
+|Transformation | |how to transform images for rotation, scaling, bitwise pixel manipulations and edge detection <-- Why this all?? <br> before sending a picture or frame into a computer vision model, one `need to adjust features(histogram)` in order to change quality |
+|Image Translation | |helps in croping picture to adjust features within input <br> Say if you needed to train an AI to detect a specific object, you would want to crop your main label and avoid pixels irrelevant to what your detecting |
+|Rotations | | real time objects in an imagea needs to be trained are not properly positioned correctly to help AI understand features we want to aggregate <br> Using rotations we can help position object correctly to help train our algorithm|
+|Scaling | |sometimes zooming into a picture looses pixel quality <br> With scaling in opencv, we can generate new pixels to prevent blury content with zooming in |
+|Image Pyramids <br>(Resize) | |to resize images for visiual designers |
+|Region of intrest <br> (Crop) | |in self driving cars we need to focus on street lanes in order to teach a car to drive by itself <br>With region of interest, we can crop out a section of an image and focus on pixels representing a street |
+|Bitwise Operations <br> (Mask) | | after grayscaling an image to detect edges with high gradients <br> it's neccessary to trigger a bitwise operation and seperate white and black pixels similar to logic gates with 1's and 0's.|
+|Convolutions & Blurring | | aggregating pixels can generate noise, <br> so using probability algorithms to generate new pixels like Gaussian will reduce noices and blurry content |
+|Sharpening| | when a picture is blurry we can use interpolation to sharpen images|
+|Thresholding| | if theres a huge intensity between black and white pixel, <br>we calcualte thershold in order to find gradients for edges in an image|
+|Dilation & Erosion| |most `basic morphological operations` are <br> `dilation and erosion`<br> Dilation `adds pixels to boundaries of objects` in an image <br> while erosion `removes pixels on object boundaries`|
+|Edge Detection| |identifying a variety of mathematical methods that aim at identifying points in a digital image at which image brightness changes sharply <br>or more formally has discontinuities |
+|Perspective & Affine Transforms| |Affine Transform is a function between affine spaces which preserves points, straight lines and planes |
 
 
 
