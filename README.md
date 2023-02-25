@@ -3,15 +3,15 @@ OpenCV projects, step towards Computer Vision and Deep Learning <br>
 This repository includes any projects that I have completed in research, projects. <br>
 `Main focus is to study fields that cross over Machine Learning(SVM, K-means), Deep Learning(CNN), Computer Vision and Data Science`
 
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/26667491/221327988-f36a7b53-3609-4347-9708-50d0241c05c9.gif" width=30% height=0%/>
-</p>
-
 <p align="center">
   <kbd><img src="https://user-images.githubusercontent.com/26667491/221328025-1e8c4bfc-2534-4742-a7f5-0b0e9d0e29f7.png"/></kbd>  
   <kbd><img src="https://user-images.githubusercontent.com/26667491/221328101-153a4910-3cae-4524-be10-3001c0ce6ea0.png"/></kbd>
   ## Deep Learning Timeline
   <kbd><img src="https://user-images.githubusercontent.com/26667491/221328067-954ea17f-8ba3-49d1-9766-126056fc287f.png"/></kbd>
+</p>
+
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/26667491/221327988-f36a7b53-3609-4347-9708-50d0241c05c9.gif" width=30% height=0%/>
 </p>
 
 ## Index:
