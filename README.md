@@ -6,7 +6,7 @@ This repository includes any projects that I have completed in research, project
 
 <p align="center">
   <kbd><img src="https://user-images.githubusercontent.com/26667491/221328025-1e8c4bfc-2534-4742-a7f5-0b0e9d0e29f7.png"/></kbd>  
-  <kbd><img src="https://user-images.githubusercontent.com/26667491/221328101-153a4910-3cae-4524-be10-3001c0ce6ea0.png"/></kbd>
+  <!--<kbd><img src="https://user-images.githubusercontent.com/26667491/221328101-153a4910-3cae-4524-be10-3001c0ce6ea0.png"/></kbd>-->
   
   ## Deep Learning Timeline
   <kbd><img src="https://user-images.githubusercontent.com/26667491/221328067-954ea17f-8ba3-49d1-9766-126056fc287f.png"/></kbd>
